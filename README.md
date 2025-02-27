@@ -1,5 +1,7 @@
-# Beeper - Chat Application 
+# Beeper - Chat Application with Next
 Beeper is chat application build with the power of MERN Stack. You can find the tutorial
+
+![image](https://github.com/user-attachments/assets/f57d534e-8d48-4dff-9481-561a1d6d0f4f)
 
 ## Installation Guide
 
